@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Errror24">
-    <img src="https://img.shields.io/github/followers/Errror24?label=Followers&style=for-the-badge&color=0A66C2"/>
+  <a href="https://github.com/693odi">
+    <img src="https://img.shields.io/github/followers/693odi?label=Followers&style=for-the-badge&color=0A66C2"/>
   </a>
   
-  <a href="https://github.com/Errror24?tab=repositories">
+  <a href="https://github.com/693odi?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View-2EA44F?style=for-the-badge"/>
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=Errror24&style=for-the-badge&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=693odi&style=for-the-badge&color=blue"/>
 </p>
 
 
