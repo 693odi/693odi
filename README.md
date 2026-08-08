@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Al-Najjar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;C%2FC%2B%2B+Developer;Competitive+Programmer;Programming+Coach;Problem+Solving+Enthusiast;President+of+BinX+Tech+Student+Club;Building+Real+Projects;Interested+In+Image+Processing;Interested+In+Computer+Vision;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+Student;C%2FC%2B%2B+Developer;Competitive+Programmer;Programming+Coach;Problem+Solving+Enthusiast;President+of+BinX+Tech+Student+Club;Building+Real+Projects;Interested+In+Image+Processing;Interested+In+Computer+Vision
 ;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
