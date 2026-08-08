@@ -29,7 +29,7 @@
 - Competitive Programming
 - Problem Solving
 - Artificial Intelligence
-- Machine Learning
+- Building Real Projects
 - Software Development
 
 👨‍🏫 Programming Coach helping others improve their programming skills.
